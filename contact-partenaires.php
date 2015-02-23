@@ -32,12 +32,7 @@
         </aside>
         <a id="logo" href="/" title="METALORGIE FEST 2015 | 03-04 2015 à La Scène Michelet (Nantes)"><img src="img/logo-metalorgie-fest-2015.png" alt="METALORGIE FEST 2015 | 03-04 2015 à La Scène Michelet (Nantes)"></a>
     </header>
-    <div id="addthis" class="addthis_toolbox addthis_floating_style addthis_counter_style">
-        <a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
-        <a class="addthis_button_tweet" tw:count="vertical"></a>
-        <a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
-        <a class="addthis_counter"></a>
-    </div>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=picks44" async="async"></script>
     <h1 id="title">Contact et Partenaires</h1>
     <section id="contact">
         <div class="row">
@@ -99,8 +94,6 @@
 </div>
 
 <script src="js/vendor/jquery-1.11.2.min.js"></script>
-<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=picks44"></script>
-<script>var addthis_config = {"data_track_addressbar":true};</script>
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>

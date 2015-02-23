@@ -74,13 +74,6 @@ header aside a:hover img {
     -ms-transform: rotate(720deg);
 }
 
-#addthis {
-    background-color:#000000;
-    left:5px;
-    top:50px;
-    width:75px;
-}
-
 .tile {
     display: block;
     background-color: #000000;
@@ -203,16 +196,10 @@ footer p a {
         background: none;
         background-color: #585c5b;
     }
-    #addthis {
-        display: none;
-    }
 }
 @media (max-width: 768px) {
     .tile img, .band-img {
         width: 100%;
-    }
-    #addthis {
-        display: none;
     }
 }
 @media (max-width: 450px) {

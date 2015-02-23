@@ -32,12 +32,7 @@
         </aside>
         <a id="logo" href="/" title="METALORGIE FEST 2015 | 03-04 2015 à La Scène Michelet (Nantes)"><img src="img/logo-metalorgie-fest-2015.png" alt="METALORGIE FEST 2015 | 03-04 2015 à La Scène Michelet (Nantes)"></a>
     </header>
-    <div id="addthis" class="addthis_toolbox addthis_floating_style addthis_counter_style">
-        <a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>
-        <a class="addthis_button_tweet" tw:count="vertical"></a>
-        <a class="addthis_button_google_plusone" g:plusone:size="tall"></a>
-        <a class="addthis_counter"></a>
-    </div>
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=picks44" async="async"></script>
     <h1 id="title">Programmation</h1>
     <section id="programmation">
         <div class="row">
@@ -69,6 +64,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">Aeris <small>(Metal Progressif/Jazz, Nantes)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Aeris" title="Aeris sur Metalorgie.com" target="_blank"><img alt="Aeris sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="http://aeris.bandcamp.com/" title="Bandcamp Aeris" target="_blank"><img alt="Bandcamp Aeris" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/AERISTEMPLE" title="Facebook Aeris" target="_blank"><img alt="Facebook Aeris" src="img/facebook-small.png"></a>
                 </p>
@@ -82,7 +78,8 @@
             <div class="col-md-6">
                 <h3 class="band-title">6:33 <small>(Metal Expérimental Déjanté, Paris)</small></h3>
                 <p class="band-links">
-                    <a href="http://www.633theband.com/" title="Bandcamp 6:33" target="_blank"><img alt="Bandcamp 6:33" src="img/bandcamp-small.png"></a>
+                    <a href="http://www.metalorgie.com/groupe/6-33" title="6:33 sur Metalorgie.com" target="_blank"><img alt="6:33 sur Metalorgie.com" src="img/metalorgie-small.png"></a>
+                    <a href="http://www.633theband.com/" title="Site 6:33" target="_blank"><img alt="Site 6:33" src="img/website-small.png"></a>
                     <a href="https://www.facebook.com/6h33official" title="Facebook 6:33" target="_blank"><img alt="Facebook 6:33" src="img/facebook-small.png"></a>
                 </p>
                 <p>Les parisiens de 6h33 voient le jour en 2010 et ne perdent pas de temps pour sortir un premier album un an plus tard. L’objet, montrant des influences évidentes du coté de Faith No More et Devin Townsend, sera salué par la critique. S’ensuit une rencontre avec Arno Strobl (Carnival In Coal) en 2012, d’où naîtra un EP, lui aussi acclamé. Le groupe enchaîne avec Strobl en 2013 pour sortir son deuxième album chez Season of Mist. Enfin, le metal fou de 6h33 se voit peaufiné sur un troisième format long, "Deadly Scenes", sorti en janvier 2015, et qui devrait être défendu avec classe et démence en ouverture de ce vendredi.</p>
@@ -95,6 +92,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">Kayo Dot <small>(Psyché/Ambiant/Hardcore/Rock/Inclassable, USA)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Kayo-Dot" title="Kayo Dot sur Metalorgie.com" target="_blank"><img alt="Kayo Dot sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="https://kayodot.bandcamp.com/" title="Bandcamp Kayo Dot" target="_blank"><img alt="Bandcamp Kayo Dot" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/kayodot.official" title="Facebook Kayo Dot" target="_blank"><img alt="Facebook Kayo Dot" src="img/facebook-small.png"></a>
                 </p>
@@ -115,6 +113,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">ÖfÖ AM <small>(Stoner Psychédélique, Montpellier)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Ofo-Am" title="ÖfÖ AM sur Metalorgie.com" target="_blank"><img alt="ÖfÖ AM sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="http://weareofoam.bandcamp.com/" title="Bandcamp ÖfÖ AM" target="_blank"><img alt="Bandcamp ÖfÖ AM" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/pages/%C3%96f%C3%96-AM/80706294909" title="Facebook ÖfÖ AM" target="_blank"><img alt="Facebook ÖfÖ AM" src="img/facebook-small.png"></a>
                 </p>
@@ -128,6 +127,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">Lazer/Wulf <small>(Metal Expérimental/Fusion/Sludge, USA)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Lazer-Wulf" title="Lazer/Wulf sur Metalorgie.com" target="_blank"><img alt="Lazer/Wulf sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="http://retrofuturist.bandcamp.com/album/the-beast-of-left-and-right" title="Bandcamp Lazer/Wulf" target="_blank"><img alt="Bandcamp Lazer/Wulf" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/lazerwulves" title="Facebook Lazer/Wulf" target="_blank"><img alt="Facebook Lazer/Wulf" src="img/facebook-small.png"></a>
                 </p>
@@ -141,6 +141,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">Drawers <small>(Sludge/Doom, Toulouse)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Drawers" title="Drawers sur Metalorgie.com" target="_blank"><img alt="Drawers sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="http://drawerskvlt.bandcamp.com/" title="Bandcamp Drawers" target="_blank"><img alt="Bandcamp Drawers" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/drawerskvlt" title="Facebook Drawers" target="_blank"><img alt="Facebook Drawers" src="img/facebook-small.png"></a>
                 </p>
@@ -154,6 +155,7 @@
             <div class="col-md-6">
                 <h3 class="band-title">Thou <small>(Sludge/Doom, USA)</small></h3>
                 <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Thou" title="Thou sur Metalorgie.com" target="_blank"><img alt="Thou sur Metalorgie.com" src="img/metalorgie-small.png"></a>
                     <a href="http://thou.bandcamp.com/" title="Bandcamp Thou" target="_blank"><img alt="Bandcamp Thou" src="img/bandcamp-small.png"></a>
                     <a href="https://www.facebook.com/pages/Thou/249015501795190" title="Facebook Thou" target="_blank"><img alt="Facebook Thou" src="img/facebook-small.png"></a>
                 </p>
@@ -167,8 +169,6 @@
 </div>
 
 <script src="js/vendor/jquery-1.11.2.min.js"></script>
-<script src="//s7.addthis.com/js/300/addthis_widget.js#pubid=picks44"></script>
-<script>var addthis_config = {"data_track_addressbar":true};</script>
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
