@@ -47,10 +47,10 @@
                     <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10836.665381398207!2d-1.556778!3d47.232892!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe2aec28b50f8fb31!2sLa+sc%C3%A8ne+Michelet!5e0!3m2!1sfr!2sfr!4v1421770916197" width="100%" height="300" frameborder="0" style="border:0"></iframe>
                 </div>
                 <h2>Animation/Stands</h2>
-                <p>Les changements de plateau seront animés par <a href="https://www.facebook.com/grumleeandthebears" target="_blank" title="Grum Lee">Grum Lee</a>, pour le meilleur comme pour le pire.</p>
-                <p>A noter également la présence d'un stand de vente consacré à la distro d'<a href="http://ainurecords.com/" target="_blank" title="Aïnu Records">Aïnu</a>.</p>
+                <p>Le fabuleux <a href="https://www.facebook.com/grumleeandthebears" target="_blank" title="Grum Lee">Grum Lee</a> se chargera de chauffer la salle et d'animer les changements de plateau, pour le meilleur comme pour le pire.</p>
+                <p>Un stand sera également consacré à la distro d'<a href="http://ainurecords.com/" target="_blank" title="Aïnu Records">Aïnu Records</a> pendant toute la durée du festival.</p>
                 <h2>Restauration</h2>
-                <p>L'équipe du Metalorgie Fest vous proposera de quoi vous restaurer sur place.</p>
+                <p>L'équipe du Metalorgie Fest proposera de la restauration rapide sur place.</p>
                 <h2>S'y rendre</h2>
                 <p>Tram Ligne 2 - direction "Orvault Grand Val"<br>Arrêt "Saint Félix" ou "Michelet Sciences"</p>
             </div>
