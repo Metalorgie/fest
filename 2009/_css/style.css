@@ -1,0 +1,109 @@
+html {
+    font-size: 100%; /* �vite un bug d'IE 6-7. (1) */
+}
+
+body {
+    /* Pensez � utiliser une collection de polices (2), par ex:*/
+    font-family: Arial, Helvetica, FreeSans, sans-serif;
+    font-size: .8em; /* � adapter pour la police choisie. (3) */
+    line-height: 1.4; /* � adapter au design. (4) */
+    color: white;
+    background:white;
+    margin: 0px 0 ;
+	padding: 0 ;
+	text-align: center ;
+    
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 1em 0 .5em 0; /* Rapproche le titre du texte. (5) */
+    line-height: 1.2;
+    font-weight: bold; /* Valeur par d�faut. (6) */
+    font-style: normal;
+}
+h1 {
+    font-size: 1.75em;
+}
+h2 {
+    font-size: 1.5em;
+}
+h3 {
+    font-size: 1.25em;
+}
+h4 {
+    font-size: 1em;
+}
+a {
+    text-decoration: underline;
+}
+a:link {
+    color: mediumblue;
+}
+a:visited {
+    color: indigo;
+}
+a:hover, a:focus, a:active {
+    color: crimson;
+}
+a img {
+    border: none;
+}
+em {
+    font-style: italic;
+}
+strong {
+    font-weight: bold;
+}
+input, button, select {
+    vertical-align: middle; /* Solution pb. d'alignement. (9) */
+}
+
+/**
+	Style pour les classes
+**/
+
+div#conteneur
+{
+	width: 1025px ;
+	margin: 0 auto ;
+	text-align: center ;
+	background:black url(../_img/back.png);
+}
+
+
+.usual {
+  background:#000;
+  color:#111;
+  padding:15px 20px;
+  width:900px;
+  margin:8px auto;
+}
+.usual li { list-style:none; float:left; }
+.usual ul a {
+  display:block;
+  padding:6px 10px;
+  text-decoration:none!important;
+  margin:1px;
+  margin-left:0;
+  color:#FFF;
+  background:#444;
+}
+.usual ul a:hover {
+  color:#FFF;
+  background:#111;
+  }
+.usual ul a.selected {
+  margin-bottom:0;
+  color:#000;
+  background:snow;
+  border-bottom:1px solid snow;
+  cursor:default;
+  }
+.usual div {
+  padding:10px 10px 8px 10px;
+  *padding-top:3px;
+  *margin-top:-15px;
+  clear:left;
+  background:snow;
+  text-align:left;
+}
+.usual div a { color:#000; font-weight:bold; }

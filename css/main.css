@@ -1,0 +1,223 @@
+/* ==========================================================================
+   Browse Happy prompt
+   ========================================================================== */
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@font-face {
+    font-family: 'smeyerblack';
+    src: url('../fonts/Smeyer-Black Edit-webfont.eot');
+    src: url('../fonts/Smeyer-Black Edit-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Smeyer-Black Edit-webfont.woff2') format('woff2'),
+         url('../fonts/Smeyer-Black Edit-webfont.woff') format('woff'),
+         url('../fonts/Smeyer-Black Edit-webfont.ttf') format('truetype'),
+         url('../fonts/Smeyer-Black Edit-webfont.svg#smeyerblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    margin:0;
+    padding:0;
+    background: url('../img/bg-cover.jpg') no-repeat left top fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover
+    background-size: cover;
+}
+
+html, body {
+    height:100%;
+    display:table;
+    width:100%;
+}
+
+body {
+    display:table-cell;
+    vertical-align:middle;
+}
+
+header {
+    display: block;
+    text-align: right;
+    margin: 20px auto 40px auto;
+}
+
+aside {
+    margin-bottom: 10px;
+}
+
+header aside a {
+    margin-left:5px;
+    margin-right:5px;
+}
+
+header aside a img {
+    transition: all ease-in-out 0.5s;
+}
+
+header aside a:hover img {
+    transform:rotate(720deg);
+    -webkit-transform: rotate(720deg);
+    -moz-transform: rotate(720deg);
+    -o-transform: rotate(720deg);
+    -ms-transform: rotate(720deg);
+}
+
+#addthis {
+    background-color:#000000;
+    left:5px;
+    top:50px;
+    width:75px;
+}
+
+.tile {
+    display: block;
+    background-color: #000000;
+}
+
+.tile h3 {
+    margin-top: 0;
+    padding-bottom: 5px;
+    padding-top: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #000000;
+    font-family: 'smeyerblack', sans-serif;
+    letter-spacing: 2px;
+    font-size: 40px;
+}
+
+.tile:hover {
+    text-decoration: none;
+}
+
+#title {
+    text-align: right;
+    color: #FFFFFF;
+    font-family: 'smeyerblack', sans-serif;
+    letter-spacing: 2px;
+    font-size: 100px;
+}
+
+.right {
+    text-align: right;
+}
+
+#programmation .row {
+    margin-bottom: 15px;
+}
+
+.row h2, .row h3 {
+    color: #FFFFFF;
+}
+
+.row h3.band-title {
+    margin-top: 0;
+}
+
+.row span, .row p, .row p a {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.row p a {
+    text-decoration: underline;
+}
+
+.row h3 small, .row h2 small {
+    color: #e30606;
+}
+
+.band-links a {
+    padding: 10px 10px 10px 0;
+}
+
+.band-links a img {
+    transition: all ease-in-out 0.5s;
+}
+
+.band-links a:hover img {
+    transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+}
+
+.billet-link {
+    margin-bottom: 15px;
+}
+
+.row .col-md-6 .xp {
+    color: #e30606;
+    font-size: 12px;
+}
+
+#contact .map {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+#contact .map iframe, #contact .map object, #contact .map embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    margin: 40px auto 20px auto;
+    color: #FFFFFF;
+}
+
+footer p a {
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+@media (max-width: 1200px) {
+    header #logo img {
+        width: 400px;
+        height: auto;
+    }
+}
+@media (max-width: 990px) {
+    body {
+        margin:0;
+        padding:0;
+        background: none;
+        background-color: #585c5b;
+    }
+    #addthis {
+        display: none;
+    }
+}
+@media (max-width: 768px) {
+    .tile img, .band-img {
+        width: 100%;
+    }
+    #addthis {
+        display: none;
+    }
+}
+@media (max-width: 450px) {
+    header #logo img {
+        width: 100%;
+        height: auto;
+    }
+}
