@@ -44,7 +44,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <iframe width="100%" height="315" src="//www.youtube.com/embed/wuOQGWUsWcA?list=PLP5A7uip5T8Nce2qAVbg9dN_g3pR_whSy" frameborder="0" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/RWPGV5xZU3Y?list=PLP5A7uip5T8Nce2qAVbg9dN_g3pR_whSy" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class="col-md-6">
                 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/62178584&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
