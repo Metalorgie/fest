@@ -93,6 +93,7 @@
                     <a href="https://www.facebook.com/rlhtband/" title="Facebook Regarde Les Hommes Tomber" target="_blank"><img alt="Facebook Regarde Les Hommes Tomber" src="img/facebook-small.png"></a>
                 </p>
                 <p></p>
+<!--                <p>Regarde les Hommes Tomber, c'est un peu comme si les riffs ciselés de Dissection fusionnaient avec la lourdeur d'Amenra. Ces Nantais ont illustré leur potentiel sur deux albums de qualité. Mais, de leur propre aveu, c’est avant tout sur scène que le groupe existe, comme en attestent leurs origines hardcore. Une expérience sonique hypnotisante, pour une des formations les plus prometteuses de la scène française.</p>-->
             </div>
         </div>
         <div class="row">
@@ -178,15 +179,6 @@
 <script src="js/vendor/bootstrap.min.js"></script>
 <script src="js/plugins.js"></script>
 <script src="js/main.js"></script>
-
-<script>
-    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-        e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-        e.src='//www.google-analytics.com/analytics.js';
-        r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-    ga('create','UA-340766-3','auto');ga('send','pageview');
-</script>
 
 </body>
 </html>

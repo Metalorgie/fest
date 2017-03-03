@@ -62,7 +62,7 @@ header aside a:hover img {
     background-color: #000000;
 }
 
-.tile h3 {
+.tile h2 {
     margin-top: 0;
     padding-bottom: 5px;
     padding-top: 12px;
@@ -70,7 +70,6 @@ header aside a:hover img {
     background-color: #000000;
     font-family: 'Almendra', serif;
     letter-spacing: 2px;
-    font-size: 40px;
 }
 
 .tile:hover {
@@ -82,7 +81,6 @@ header aside a:hover img {
     color: #FFFFFF;
     font-family: 'Almendra', serif;
     letter-spacing: 2px;
-    font-size: 60px;
 }
 
 .right {
@@ -131,11 +129,6 @@ header aside a:hover img {
 
 .billet-link {
     margin-bottom: 15px;
-}
-
-.row .col-md-6 .xp {
-    color: #e30606;
-    font-size: 12px;
 }
 
 #contact .map {

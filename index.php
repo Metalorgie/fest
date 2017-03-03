@@ -84,13 +84,13 @@
                             </div>
                         </div>
                     </div>
-                    <h3>Programmation</h3>
+                    <h2>Programmation</h2>
                 </a>
             </div>
             <div class="col-md-6">
                 <a id="billet" class="tile" href="billetterie" title="Billetterie Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)">
                     <img src="img/billet.jpg" alt="Billetterie Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
-                    <h3>Billetterie</h3>
+                    <h2>Billetterie</h2>
                 </a>
             </div>
         </div>
@@ -98,13 +98,13 @@
             <div class="col-md-6">
                 <a id="pratique" class="tile" href="infos-pratiques" title="Infos Pratiques Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)">
                     <img src="img/pratique.jpg" alt="Infos Pratiques Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
-                    <h3>Infos Pratiques</h3>
+                    <h2>Infos Pratiques</h2>
                 </a>
             </div>
             <div class="col-md-6">
                 <a id="contact" class="tile" href="contact-partenaires" title="Contact & Partenaires Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)">
                     <img src="img/contact.jpg" alt="Contact & Partenaires Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
-                    <h3>Contact et Partenaires</h3>
+                    <h2>Contact et Partenaires</h2>
                 </a>
             </div>
         </div>
