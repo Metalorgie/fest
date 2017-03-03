@@ -3,13 +3,17 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Developer: Vincent GHISLAIN
+    Email Developer: vinceghislain [at] gmail.com
+    Site Developer: http://www.vincentghislain.fr
+    Twitter: @V_in_Z
+    Location: Nantes, France
 
-# THANKS
+# SITE
 
-    <name>
-
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Standards: HTML5, CSS3
+    IDE: PHPStorm
+    Doctype: HTML5
+    Language: French
+    Components: Twitter Bootstrap, jQuery, Apache, Modernizr.js, Respond.js
+    
