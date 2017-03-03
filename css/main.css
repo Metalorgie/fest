@@ -13,26 +13,13 @@
    Author's custom styles
    ========================================================================== */
 
-@font-face {
-    font-family: 'smeyerblack';
-    src: url('../fonts/Smeyer-Black Edit-webfont.eot');
-    src: url('../fonts/Smeyer-Black Edit-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/Smeyer-Black Edit-webfont.woff2') format('woff2'),
-         url('../fonts/Smeyer-Black Edit-webfont.woff') format('woff'),
-         url('../fonts/Smeyer-Black Edit-webfont.ttf') format('truetype'),
-         url('../fonts/Smeyer-Black Edit-webfont.svg#smeyerblack') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
 body {
     margin:0;
     padding:0;
-    background: url('../img/bg-cover.jpg') no-repeat left top fixed;
+    background: url('../img/bg-cover.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
-    -o-background-size: cover
+    -o-background-size: cover;
     background-size: cover;
 }
 
@@ -49,12 +36,8 @@ body {
 
 header {
     display: block;
-    text-align: right;
-    margin: 20px auto 40px auto;
-}
-
-aside {
-    margin-bottom: 10px;
+    text-align: center;
+    margin: 20px auto 0 auto;
 }
 
 header aside a {
@@ -84,9 +67,8 @@ header aside a:hover img {
     padding-bottom: 5px;
     padding-top: 12px;
     text-align: center;
-    color: #FFFFFF;
     background-color: #000000;
-    font-family: 'smeyerblack', sans-serif;
+    font-family: 'Almendra', serif;
     letter-spacing: 2px;
     font-size: 40px;
 }
@@ -96,11 +78,11 @@ header aside a:hover img {
 }
 
 #title {
-    text-align: right;
+    text-align: center;
     color: #FFFFFF;
-    font-family: 'smeyerblack', sans-serif;
+    font-family: 'Almendra', serif;
     letter-spacing: 2px;
-    font-size: 100px;
+    font-size: 60px;
 }
 
 .right {
@@ -112,7 +94,7 @@ header aside a:hover img {
 }
 
 .row h2, .row h3 {
-    color: #FFFFFF;
+    color: #c2c2c2;
 }
 
 .row h3.band-title {
@@ -121,7 +103,6 @@ header aside a:hover img {
 
 .row span, .row p, .row p a {
     color: #ffffff;
-    font-weight: bold;
 }
 
 .row p a {
@@ -129,7 +110,7 @@ header aside a:hover img {
 }
 
 .row h3 small, .row h2 small {
-    color: #e30606;
+    color: #bfbebe;
 }
 
 .band-links a {
@@ -173,6 +154,10 @@ header aside a:hover img {
     height: 100%;
 }
 
+.partner .img-responsive {
+    display: inline-block;
+}
+
 footer {
     margin: 40px auto 20px auto;
     color: #FFFFFF;
@@ -193,8 +178,7 @@ footer p a {
     body {
         margin:0;
         padding:0;
-        background: none;
-        background-color: #585c5b;
+        background: #1E0800;
     }
 }
 @media (max-width: 768px) {
