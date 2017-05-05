@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Programmation | Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)</title>
-    <meta name="description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta name="description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:url"  content="http://fest.metalorgie.com/">
     <meta property="og:type" content="website">
     <meta property="og:title"  content="Metalorgie Fest 2017 ✟ 12/13 mai 2017 ✟ Glazart (Paris)">
-    <meta property="og:description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta property="og:description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta property="og:image"  content="http://fest.metalorgie.com/img/metalorgie-fest-2017.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Metalorgie">
     <meta name="twitter:title" content="Metalorgie Fest 2017 ✟ 12/13 mai 2017 ✟ Glazart (Paris)">
-    <meta name="twitter:description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta name="twitter:description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta name="twitter:image" content="http://fest.metalorgie.com/img/metalorgie-fest-2017.jpg">
 
     <link rel="icon" href="favicon.ico">
@@ -68,6 +68,20 @@
         </div>
         <div class="row">
             <div class="col-md-6">
+                <img src="img/bands/moonreich.jpg" alt="Moonreich Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class=" img-responsive band-img">
+            </div>
+            <div class="col-md-6">
+                <h3 class="band-title">Moonreich <small>(Black Metal, Paris)</small></h3>
+                <p class="band-links">
+                    <a href="http://www.metalorgie.com/groupe/Moonreich" title="Moonreich sur Metalorgie.com" target="_blank"><img alt="Moonreich sur Metalorgie.com" src="img/metalorgie-small.png"></a>
+                    <a href="https://moonreich.bandcamp.com/" title="Bandcamp Moonreich" target="_blank"><img alt="Bandcamp Moonreich" src="img/bandcamp-small.png"></a>
+                    <a href="https://www.facebook.com/Moonreich" title="Facebook Moonreich" target="_blank"><img alt="Facebook Moonreich" src="img/facebook-small.png"></a>
+                </p>
+                <p></p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
                 <img src="img/bands/plebeian-grandstand.jpg" alt="Plebeian Grandstand Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class=" img-responsive band-img">
             </div>
             <div class="col-md-6">
@@ -94,19 +108,6 @@
                 </p>
                 <p></p>
 <!--                <p>Regarde les Hommes Tomber, c'est un peu comme si les riffs ciselés de Dissection fusionnaient avec la lourdeur d'Amenra. Ces Nantais ont illustré leur potentiel sur deux albums de qualité. Mais, de leur propre aveu, c’est avant tout sur scène que le groupe existe, comme en attestent leurs origines hardcore. Une expérience sonique hypnotisante, pour une des formations les plus prometteuses de la scène française.</p>-->
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <img src="img/bands/arkhon-infaustus.jpg" alt="Arkhon Infaustus Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class=" img-responsive band-img">
-            </div>
-            <div class="col-md-6">
-                <h3 class="band-title">Arkhon Infaustus <small>(Black Death, Paris)</small></h3>
-                <p class="band-links">
-                    <a href="http://www.metalorgie.com/groupe/Arkhon-Infaustus" title="Arkhon Infaustus sur Metalorgie.com" target="_blank"><img alt="Arkhon Infaustus sur Metalorgie.com" src="img/metalorgie-small.png"></a>
-                    <a href="https://www.facebook.com/pages/Arkhon-Infaustus/107265972636651" title="Facebook Arkhon Infaustus" target="_blank"><img alt="Facebook Arkhon Infaustus" src="img/facebook-small.png"></a>
-                </p>
-                <p></p>
             </div>
         </div>
         <div class="row">

@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Metalorgie Fest 2017 ✟ 12/13 mai 2017 ✟ Glazart (Paris)</title>
-    <meta name="description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta name="description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta property="og:url"  content="http://fest.metalorgie.com/">
     <meta property="og:type" content="website">
     <meta property="og:title"  content="Metalorgie Fest 2017 ✟ 12/13 mai 2017 ✟ Glazart (Paris)">
-    <meta property="og:description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta property="og:description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta property="og:image"  content="http://fest.metalorgie.com/img/metalorgie-fest-2017.jpg">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@Metalorgie">
     <meta name="twitter:title" content="Metalorgie Fest 2017 ✟ 12/13 mai 2017 ✟ Glazart (Paris)">
-    <meta name="twitter:description" content="Vendredi : Arkhon Infaustus + Regarde Les Hommes Tomber + Pleabeian Grandstand / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
+    <meta name="twitter:description" content="Vendredi : Regarde Les Hommes Tomber + Plebeian Grandstand + Moonreich / Samedi : Napalm Death + Brujeria + Power Trip + Lock Up">
     <meta name="twitter:image" content="http://fest.metalorgie.com/img/metalorgie-fest-2017.jpg">
 
 
@@ -68,7 +68,7 @@
                                 <img src="img/bands/brujeria.jpg" alt="Brujeria Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
                             </div>
                             <div class="item">
-                                <img src="img/bands/arkhon-infaustus.jpg" alt="Arkhon Infaustaus Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
+                                <img src="img/bands/moonreich.jpg" alt="Moonreich Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
                             </div>
                             <div class="item">
                                 <img src="img/bands/regarde-les-hommes-tomber.jpg" alt="Regarde les Hommes Tomber Metalorgie Fest 2017 ✟ 12/13 mai ✟ Glazart (Paris)" class="img-responsive">
