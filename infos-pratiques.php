@@ -59,7 +59,7 @@
         <div class="row">
             <div class="col-md-12 text-center">
                 <h2>Ouverture des portes<br><small>(sous réserve)</small></h2>
-                <p>Vendredi 12 mai : 18h<br>Samedi 13 mai : 18h</p>
+                <p>Vendredi 12 mai : 18h<br>Samedi 13 mai : 17h</p>
                 <h2>Adresse</h2>
                 <p>Glazart<br>7-15 avenue de La Porte de la Villette<br>75019 Paris<br><a href="http://www.glazart.com" target="_blank">www.glazart.com</a> // <a href="http://fb.com/glazartparis" target="_blank">fb.com/glazartparis</a></p>
                 <div class="map">
